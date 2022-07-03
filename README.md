@@ -2,4 +2,4 @@ This repository exists with the sole purpose of helping me develop my skills as 
 (Escola Britanica de Artes Criativas & Tecnologia), an online tech school im Brazil.
 
 I write mostly in portuguese but also in English so if by chance someone
-# reads it, he or she may be able to understand what all this is about. =)'
+reads it, he or she may be able to understand what all this is about. =)
